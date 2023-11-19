@@ -54,3 +54,23 @@ p span.i1{
 	text-indent: -1em;
 }
 /* end of poem/verse/song */
+
+/* custom */
+q{
+	font-style: italic;
+}
+
+#chapter-1-1 blockquote header{
+	font-style: italic;
+	margin-bottom: 1em;
+}
+
+header [epub|type~="z3998:salutation"],
+#chapter-1-6 blockquote[epub|type~="z3998:letter"] header p:last-of-type{
+	text-align: initial;
+}
+
+#chapter-3-3 blockquote p:last-of-type{
+	text-align: right;
+}
+/* end of custom */
