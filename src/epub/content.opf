@@ -45,6 +45,7 @@
 		<meta property="se:production-notes">
 			The Faded Page transcription was used, but it was updated before the initial commit to remove the changes made in the 1960 edition to keep any copyrighted text out of the repository.
 			The thematic breaks were missing from the transcription and were added manually.
+			The first (universally available) IA scan is missing all periods, including those in colons, question marks, and exclamation points (and possibly some/most semi-colons). The second (one-hour borrow) IA scan was used to validate punctuation.
 		</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
