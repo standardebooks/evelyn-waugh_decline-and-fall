@@ -35,17 +35,18 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85117645</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A satire of a young man who is drummed out of his College and in turn becomes a schoolmaster.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Paul Pennyfeather is a second-year theology student who, as a result of mistaken identity, has his “education discontinued for personal reasons.” He ends up as a schoolmaster at a fourth-rate school, hired despite not meeting any of the qualifications in their advertisement. He there encounters a cornucopia of eccentric characters, including another master who has a wooden leg, a former clergyman with capital-D Doubts, and a servant who tells everyone he is rich, but with a different tale for each about why he is posing as a servant. Paul’s time at school leads to romance with a student’s mother, and that in turn leads to enormous complications in Paul’s life.&lt;/p&gt;
+			&lt;p&gt;Inspired in part by his own experiences in school and as a schoolmaster, &lt;a href="https://standardebooks.org/ebooks/evelyn-waugh"&gt;Evelyn Waugh’s&lt;/a&gt; first published novel, &lt;i&gt;Decline and Fall&lt;/i&gt;, is a dark and occasionally farcical satire of British college life. It is something of a perverse “coming of age” story, subverting the expected journey and ending that are typically encountered in such a story. Shining a devastating light on many of the societal struggles of post-WWI Britain, Waugh took his novel’s title from another work that revealed the ineluctable descent of a great society: &lt;a href="https://standardebooks.org/ebooks/edward-gibbon"&gt;Gibbons’&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/edward-gibbon/the-history-of-the-decline-and-fall-of-the-roman-empire"&gt;The History of the Decline and Fall of the Roman Empire&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.fadedpage.com/showbook.php?pid=20170625</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.182116</dc:source>
 		<meta property="se:production-notes">
-			The Faded Page transcription was used, but it was updated before the initial commit to remove the changes made in the 1960 edition to keep any copyrighted text out of the repository.
+			The Faded Page transcription is of a 1960 edition that was “reset” to restore some of Waugh’s original text that was removed by his first publisher. The text of this edition was updated before the initial commit to remove the changes made in that 1960 edition to keep any copyrighted text out of the repository.
 			The thematic breaks were missing from the transcription and were added manually.
-			The first (universally available) IA scan is missing all periods, including those in colons, question marks, and exclamation points (and possibly some/most semi-colons). The second (one-hour borrow) IA scan was used to validate punctuation.
+			The first (universally available) IA scan is missing all periods, including those in colons, question marks, and exclamation points (and possibly some/most semi-colons), but was used to proofread the text. The second (one-hour borrow) IA scan was used to proofread the punctuation.
 		</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
