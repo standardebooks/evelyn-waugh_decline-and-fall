@@ -35,6 +35,9 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85117645</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">The BBC’s 100 Greatest British Novels (2015)</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">37</meta>
 		<dc:description id="description">A young man is drummed out of his College and in turn becomes a schoolmaster.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Paul Pennyfeather is a second-year theology student who, as a result of mistaken identity, has his “education discontinued for personal reasons.” He ends up as a schoolmaster at a fourth-rate school, hired despite not meeting any of the qualifications in their advertisement. He there encounters a cornucopia of eccentric characters, including another master who has a wooden leg, a former clergyman with capital-D Doubts, and a servant who tells everyone he’s rich, but with a different tale for each about why he’s posing as a servant. Paul’s time at school leads to romance with a student’s mother, and that in turn leads to enormous complications in Paul’s life.&lt;/p&gt;
