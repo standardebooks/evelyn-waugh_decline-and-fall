@@ -54,7 +54,7 @@
 			The thematic breaks were missing from the transcription and were added manually.
 			The first (universally available) IA scan is missing all periods, including those in colons, question marks, and exclamation points (and possibly some/most semi-colons), but was used to proofread the text. The second (one-hour borrow) IA scan was used to proofread the punctuation.
 		</meta>
-		<meta property="se:word-count">62070</meta>
+		<meta property="se:word-count">60260</meta>
 		<meta property="se:reading-ease.flesch">76.11</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Decline_and_Fall</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/evelyn-waugh_decline-and-fall</meta>
